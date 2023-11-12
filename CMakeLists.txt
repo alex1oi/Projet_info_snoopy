@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.26)
-project(TD4_electro_OUILLON_Alexandre C)
+project(untitled C)
 
-set(CMAKE_C_STANDARD 23)
+set(CMAKE_C_STANDARD 11)
 
-add_executable(TD4_electro_OUILLON_Alexandre main.c)
+add_executable(untitled main.c)
